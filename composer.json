@@ -1,0 +1,16 @@
+{
+    "name": "admin/new",
+    "description": "test",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Cristian Charris",
+            "email": "kristian@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "bramus/router": "~1.5"
+    }
+}
